@@ -10,10 +10,6 @@ The project focuses on analyzing and visualizing [insert data topic here, e.g., 
 - Interactive **Excel Dashboard** for key insights
 - Use of formulas like `VLOOKUP`, `IF`, `SUMIFS`, etc.
 
-## 📁 Files Included
-- `Dashboard_Project.xlsx` – Main Excel workbook with all analysis and dashboard
-- `README.md` – Documentation of the project
-
 ## 🛠 Tools & Features Used
 - Microsoft Excel
 - Power Query
@@ -26,10 +22,6 @@ The project focuses on analyzing and visualizing [insert data topic here, e.g., 
 - Summarize large data using Pivot Tables
 - Build an interactive dashboard using built-in Excel tools
 
-## 📌 How to Use
-1. Download or clone the repository.
-2. Open the `.xlsx` file in Microsoft Excel.
-3. Explore different sheets for raw data, cleaned data, pivot summaries, and dashboard.
 
 ## 🙌 Author
 **Abdul Razzaq**  
