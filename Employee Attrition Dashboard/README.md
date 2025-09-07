@@ -17,7 +17,7 @@ The purpose of this project is to help HR teams and managers understand:
 
 ## 📷 Dashboard Preview  
 
-<img width="1892" height="968" alt="image" src="https://github.com/user-attachments/assets/355de8b0-8ada-4dc2-8632-d5af18738b01" />
+<img width="1882" height="973" alt="Dashboard" src="https://github.com/user-attachments/assets/940ae498-1bec-4c7d-ba58-56bf8811f599" />
 
 
 ---
