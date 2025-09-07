@@ -1,4 +1,4 @@
-# 📊 HR Attrition Dashboard  
+# 📊 Employee Attrition Dashboard  
 
 An interactive dashboard designed in **Excel** to analyze **employee attrition trends** and provide insights into workforce stability, turnover, and retention.  
 
