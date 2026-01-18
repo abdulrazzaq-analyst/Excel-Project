@@ -102,3 +102,12 @@ Explore more of my data analytics projects:
 For questions or collaboration:  
 📧 abdulrazzaq.analytics@gmail.com  
 🔗 https://github.com/abdulrazzaq-analyst
+
+---
+
+## 👤 Author
+**Abdul Razzaq**  
+Statistics Graduate | Data Analytics & Visualization  
+🔗 GitHub: https://github.com/abdulrazzaq-analyst
+
+
