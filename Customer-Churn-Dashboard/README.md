@@ -1,6 +1,6 @@
 # 📊 Customer Churn Analysis Dashboard – Excel
 
-<img width="1892" height="892" alt="Churn_Dashboard_Image" src="https://github.com/user-attachments/assets/REPLACE_WITH_YOUR_IMAGE_LINK" />
+<img width="1797" height="918" alt="image" src="https://github.com/user-attachments/assets/0cef1dc3-961a-42da-b324-7d6f8dd5c90e" />
 
 **A professional and interactive Customer Churn Analysis Dashboard built in Microsoft Excel** to analyze **customer retention, churn behavior, and key risk factors** using dynamic visual analytics.
 
