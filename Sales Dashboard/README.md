@@ -77,4 +77,11 @@ This **Sales Profit Dashboard** project demonstrates my proficiency in **data an
 ## 📞 Contact
 For questions or feedback, reach me at **abdulrazzaq.analytics@gmail.com** or check out more projects on **[GitHub](https://github.com/abdulrazzaq-analyst)**.
 
+---
+
+## 👤 Author
+**Abdul Razzaq**  
+Statistics Graduate | Data Analytics & Visualization  
+🔗 GitHub: https://github.com/abdulrazzaq-analyst
+
 
