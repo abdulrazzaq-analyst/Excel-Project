@@ -75,13 +75,17 @@ This dashboard enables HR teams to:
 
 ---
 
-## 📬 Contact  
-
-👤 **Abdul Razzaq**  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/abdul-razzaq-095aab2b6)  
-💻 [GitHub Profile](https://github.com/abdulrazzaq-analyst)  
+## 📞 Contact
+For questions or collaboration:  
+📧 abdulrazzaq.analytics@gmail.com  
+🔗 https://github.com/abdulrazzaq-analyst
 
 ---
+
+## 👤 Author
+**Abdul Razzaq**  
+Statistics Graduate | Data Analytics & Visualization  
+🔗 GitHub: https://github.com/abdulrazzaq-analyst
 
 ⭐ If you found this project interesting, don’t forget to **star this repo** on GitHub!  
 
